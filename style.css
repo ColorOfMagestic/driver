@@ -87,7 +87,7 @@ img {
   z-index: 10;
   width: 100%;
   height: 100vh;
-  background-image: url(../images/intro_BG.png);
+  background-image: url(images/intro_BG.png);
   background-position: center center;
   background-size: cover;
   transform: translateY(0);
@@ -117,7 +117,7 @@ img {
 .time {
   width: 100%;
   height: 100vh;
-  background-image: url(../images/day_BG.png);
+  background-image: url(images/day_BG.png);
   background-position: center center;
   background-size: cover;
   animation: scroll 5s linear infinite;
@@ -126,7 +126,7 @@ img {
 }
 
 .time--night {
-  background-image: url(../images/night_BG.png);
+  background-image: url(images/night_BG.png);
 }
 
 .time-wrapper {
